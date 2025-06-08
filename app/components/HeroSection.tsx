@@ -22,7 +22,7 @@ const HeroSection = () => {
 						FullStack Developer
 					</h2>
 					<p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed px-4">
-						Crafting exceptional mobile experiences with
+						Crafting exceptional experiences with
 						<span className="text-yellow-400"> Javascript</span>,<span className="text-blue-400"> Python</span>, and 
 						<span className="text-orange-400"> Java</span>
 					</p>
